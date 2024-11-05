@@ -1,9 +1,7 @@
 ### Olá! 👋
 
-- 🔭 Eu estou atualmente cursando Sistemas de Informação pela UniFacisa
-- 🌱 No momento estou estudando linguagens para o backend e alguns frameworks
-- 📫 Contate-me no e-mail: jose.gama@maisunifacisa.com.br
-- 😄 Pronomes: ele/dele
+- 📚 Formado em Engenharia de Materiais pela UFCG e atualmente cursando Sistemas de Informação pela UniFacisa
+- 📫 Contate-me no e-mail: gama.a.jose@gmail.com
 
   ##
   
